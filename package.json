@@ -1,0 +1,22 @@
+{
+  "name": "bobu4187",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobu4187/bobu4187.git"
+  },
+  "keywords": [
+    "bobu4187"
+  ],
+  "author": "bobu4187",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bobu4187/bobu4187/issues"
+  },
+  "homepage": "https://github.com/bobu4187/bobu4187#readme"
+}
